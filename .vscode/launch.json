@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ghj",
+      "request": "launch",
+      "mainClass": "mycodes.ghj",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
+      "name": "dd",
+      "request": "launch",
+      "mainClass": "mycodes.dd",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
+      "name": "assigment",
+      "request": "launch",
+      "mainClass": "assigment",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
       "name": "ab",
       "request": "launch",
       "mainClass": "ab",
