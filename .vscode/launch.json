@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "area",
+      "request": "launch",
+      "mainClass": "area",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
+      "name": "Rectangle",
+      "request": "launch",
+      "mainClass": "Rectangle",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
+      "name": "Degree",
+      "request": "launch",
+      "mainClass": "Degree",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
+      "name": "degre",
+      "request": "launch",
+      "mainClass": "degre",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
+      "name": "student",
+      "request": "launch",
+      "mainClass": "student",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
+      "name": "Student",
+      "request": "launch",
+      "mainClass": "Student",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
+      "name": "my",
+      "request": "launch",
+      "mainClass": "my",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
       "name": "ghj",
       "request": "launch",
       "mainClass": "mycodes.ghj",
