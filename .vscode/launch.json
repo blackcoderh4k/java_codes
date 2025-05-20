@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "maximummmm",
+      "request": "launch",
+      "mainClass": "maximummmm",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
+      "name": "stringcountaa",
+      "request": "launch",
+      "mainClass": "stringcountaa",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
+      "name": "duplicateee",
+      "request": "launch",
+      "mainClass": "duplicateee",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
+      "name": "reversess",
+      "request": "launch",
+      "mainClass": "reversess",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
       "name": "area",
       "request": "launch",
       "mainClass": "area",
