@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "arrayyyy",
+      "request": "launch",
+      "mainClass": "arrayyyy",
+      "projectName": "New folder_e6f05241"
+    },
+    {
+      "type": "java",
       "name": "inttochr",
       "request": "launch",
       "mainClass": "inttochr",
